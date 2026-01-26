@@ -1,2 +1,2 @@
-# DSTAR > D+ #
+# DSTAR > DPLUS #
 # Name  IP/HostName #
