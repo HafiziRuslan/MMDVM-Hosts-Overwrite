@@ -1,1 +1,2 @@
+# YSF / C4FM #
 # ID  ;  Name  ;  Description  ;  IP/HostName  ;  Port  ;  DefaultRoom  ; #
