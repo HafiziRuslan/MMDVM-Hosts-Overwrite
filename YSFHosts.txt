@@ -1,0 +1,1 @@
+# ID  ;  Name  ;  Description  ;  IP/HostName  ;  Port  ;  DefaultRoom  ; #
