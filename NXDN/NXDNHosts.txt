@@ -1,2 +1,2 @@
 # NXDN #
-# NAC  IP/HostName  Port #
+# RAN  IP/HostName  Port #
